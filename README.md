@@ -22,7 +22,7 @@ This is an automation suite for testing APIs of an e-commerce platform. Using **
 - **Selenium** for improving my UI and automated testing practices.
 
 ## 📫 Let's Connect!  
-- You can find me on [LinkedIn](https://linkedin.com/in/utkarshasinha), and feel free to reach out for collaborations, feedback, or just a tech chat!
+- You can find me on [LinkedIn](https://www.linkedin.com/in/utkarsha-sinha-17a16a30a/), and feel free to reach out for collaborations, feedback, or just a tech chat!
 
 
 
