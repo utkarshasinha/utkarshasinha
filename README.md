@@ -7,12 +7,6 @@ I’m an aspiring **QA Engineer** passionate about quality assurance, automation
 - **Version Control:** Git   
 - **Cloud Computing Concepts**: Familiar with cloud basics, working on mastering cloud platforms like Verizon Cloud
 
-## 🌟 Featured Projects
-
-### [E-Commerce API Test Suite](https://github.com/utkarshasinha/ecommerce-api-tests)  
-This is an automation suite for testing APIs of an e-commerce platform. Using **Postman** and **Newman**, I built test cases for scenarios like user authentication, product search, and checkout. The goal is to simulate real-world interactions for robust testing.
-
-
 ## 📜 Certifications
 - **Verizon Cloud Essentials Certificate**  
 - **TAU Postman API Testing Certificate**
