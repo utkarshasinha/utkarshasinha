@@ -1,9 +1,9 @@
 # Hi, I'm Utkarsha Sinha! 👋  
-I’m an aspiring **QA Engineer** passionate about quality assurance, automation testing, and backend development. My current focus is on learning tools like **Node.js** and **Selenium**, while continuously expanding my knowledge of cloud technologies.
+Hi! I’m Utkarsha, an electronics and communication engineering student passionate about building tech solutions. I focus on backend development, software testing, and creating web applications. I’m skilled in Python and web development, and I’m always exploring new technologies like React.js and cloud tools.
 
 ## 🛠️ Skills & Tools
-- **Programming Languages:** Python, c++, C  
-- **Testing Tools:** Postman,newman, selenium(learning) 
+- **Programming Languages:** Python, c++, C, javascript
+- **Tools and frameworks:** Postman,newman,node.js,react.js,html,css 
 - **Version Control:** Git   
 - **Cloud Computing Concepts**: Familiar with cloud basics, working on mastering cloud platforms like Verizon Cloud
 
@@ -12,8 +12,7 @@ I’m an aspiring **QA Engineer** passionate about quality assurance, automation
 - **TAU Postman API Testing Certificate**
 
 ## 🌱 Currently Learning
-- **Node.js** to strengthen my backend development skills.  
-- **Selenium** for improving my UI and automated testing practices.
+- **react.js** 
 
 ## 📫 Let's Connect!  
 - You can find me on [LinkedIn](https://www.linkedin.com/in/utkarsha-sinha-17a16a30a/), and feel free to reach out for collaborations, feedback, or just a tech chat!
