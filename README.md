@@ -1,4 +1,4 @@
-# Hi, I'm Utkarsha Sinha! 
+# Hi
 I build technology that makes interactions simpler, smarter, and more accessible. My work is on the idea that digital experiences should be intuitive and useful, ensuring they work for everyone.
 
 Always exploring ways to make systems clearer, faster, and more impactful.
